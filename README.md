@@ -2,7 +2,7 @@
 Analyzing spam and fraud in text using NLP.
 
 
-In this project, I have performed basic EDA, Data Cleaning, Data Analysis classify text as spam or non spam using NLP. The two models used in this experimentation are Naive Bayes and LSTM. Please refer the codebook for complete info.
+In this project, I have performed basic EDA, Data Cleaning, Data Analysis to classify text as spam or non spam using NLP. The two models used in this experimentation are Naive Bayes and LSTM. Please refer the codebook for complete info.
 
 
 FINAL THOUGHTS
